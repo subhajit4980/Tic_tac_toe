@@ -2,6 +2,10 @@
 
 This is a simple implementation of the classic Tic Tac Toe game in Kotlin. The game is played on a 3x3 grid and can be played by two players, one taking the 'X' symbol and the other taking the 'O' symbol. The players take turns placing their symbols on the grid, and the first player to get three of their symbols in a row, column, or diagonal wins the game. If all the spaces on the grid are filled and no player has won, the game is considered a draw. After game Over user can restart the game with the same player.
 
+[![Tic Tac Toe](https://img.shields.io/badge/Tic_Tac_Toe✅-APK-red.svg?style=for-the-badge&logo=android)]()
+
+[Want to try the app](https://appetize.io/app/jufichg27fdm6fdswnds2nyvmm?device=pixel7pro&osVersion=13.0)
+
 ## Features
 - Two player game mode
 - Simple graphical user interface
